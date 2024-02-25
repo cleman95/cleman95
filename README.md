@@ -3,7 +3,6 @@
 ### 🎓 Certifications
 
 [![CKA: Certified Kubernetes Application Developer](https://images.credly.com/size/70x70/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](https://www.credly.com/badges/967ea661-1258-4599-bd65-15f4e6a65f44 "CKA: Certified Kubernetes Application Developer")
-
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/70x70/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/8a981011-451c-48f0-b433-3331c7ebd4b5 "CKA: Certified Kubernetes Administrator")
 
 
