@@ -81,12 +81,6 @@ Platform Engineer @ [NumSpot](https://www.numspot.com/), building a French sover
 - 🔭 Building a sovereign cloud platform on Kubernetes @ NumSpot
 - 🌱 Contributing to CNCF projects ([Envoy](https://github.com/envoyproxy/envoy), [ExternalDNS](https://github.com/kubernetes-sigs/external-dns))
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cleman95&show_icons=true&hide_rank=true&hide_border=true&title_color=326CE5&icon_color=326CE5&include_all_commits=true" alt="GitHub stats" height="165"/>
-</p>
-
 ### 📫 Reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clement-phu-67a2b414b/)
