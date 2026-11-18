@@ -79,14 +79,12 @@ Platform Engineer @ [NumSpot](https://www.numspot.com/), building a French sover
 ### 🎯 Currently
 
 - 🔭 Building a sovereign cloud platform on Kubernetes @ NumSpot
-- 🌱 Contributing to CNCF projects
-- 🏔️ Goal: joining the [kubernetes](https://github.com/kubernetes) & [kubernetes-sigs](https://github.com/kubernetes-sigs) orgs
+- 🌱 Contributing to CNCF projects ([Envoy](https://github.com/envoyproxy/envoy), [ExternalDNS](https://github.com/kubernetes-sigs/external-dns))
 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cleman95&show_icons=true&hide_rank=true&hide_border=true&title_color=326CE5&icon_color=326CE5" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleman95&layout=compact&hide_border=true&title_color=326CE5&langs_count=8" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cleman95&show_icons=true&hide_rank=true&hide_border=true&title_color=326CE5&icon_color=326CE5&include_all_commits=true" alt="GitHub stats" height="165"/>
 </p>
 
 ### 📫 Reach me
